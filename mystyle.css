@@ -1,0 +1,42 @@
+body {
+  background-color: #F7CEEF;
+
+  ;
+
+}
+h1 {
+  border-style: solid;
+  font-size: 80px;
+  font-family: "Arial"
+}
+
+h2 {
+
+border-style: dashed;
+
+
+}
+
+h3 {
+  font-family: "Times New Roman";
+  font-size: 50px;
+
+}
+
+h4 {
+  font-family: "Arial";
+  font-size: 50px;
+}
+
+
+p {
+font-size: 20px;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
